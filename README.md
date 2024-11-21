@@ -33,3 +33,40 @@ L'ONCFM cherche à automatiser le processus d’identification des faux billets 
 
 Ce projet m’a permis d’approfondir mes compétences en modélisation et en analyse prédictive tout en relevant un défi concret dans le domaine de la lutte contre la contrefaçon. Il illustre ma capacité à utiliser les données pour résoudre des problèmes complexes et produire des résultats tangibles.
 
+&nbsp; 
+&nbsp; 
+
+# 💶 Automatic Detection of Counterfeit Banknotes for ONCFM
+
+This project, completed as part of my Data Analytics training, aimed to develop a solution capable of automatically identifying counterfeit euro banknotes based on their geometric characteristics. As a Data Analyst consultant, I had the opportunity to collaborate with the **National Organization for Counterfeit Money Prevention (ONCFM)**, an institution dedicated to detecting and preventing counterfeiting.
+
+---
+
+## 📚 Project Context
+ONCFM seeks to automate the process of identifying counterfeit banknotes through the analysis of geometric data collected by their machines. These dimensions, often imperceptible to the human eye, can reveal subtle patterns that differentiate genuine from counterfeit banknotes. The goal of the project was to design an efficient classification algorithm to automate this critical task.
+
+---
+
+## 🎯 Project Objectives
+- **Analyze and clean raw data** from the geometric characteristics of banknotes.  
+- **Explore various modeling approaches**, including supervised classification techniques.  
+- **Build, test, and compare multiple models** (logistic regression, decision trees, etc.) to identify the most effective one.  
+- **Deploy a final model** ready to automatically predict whether a banknote is genuine or counterfeit.
+
+---
+
+## 📦 Deliverables
+1. **Python Notebook**: Comprehensive documentation of the process, including data cleaning, exploration, modeling, and testing.  
+2. **Final Model**: A predictive algorithm ready to be integrated into ONCFM tools.
+
+---
+
+## ✨ Skills Developed
+- Predictive analysis and creation of supervised classification models.  
+- Logistic and linear regression.  
+- Data cleaning and exploratory analysis techniques.  
+- Model optimization to improve prediction accuracy.
+
+---
+
+This project allowed me to deepen my skills in modeling and predictive analysis while addressing a real-world challenge in counterfeiting prevention. It demonstrates my ability to leverage data to solve complex problems and deliver tangible results.
