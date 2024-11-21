@@ -1,6 +1,6 @@
 # 💶 Détection Automatique de Faux Billets pour l'ONCFM
 
-Ce projet, réalisé dans le cadre de ma formation en Data Analytics, avait pour objectif de développer une solution capable d’identifier automatiquement les faux billets en euros à partir de leurs caractéristiques géométriques. En tant que consultant Data Analyst, j’ai eu l’opportunité de collaborer avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM), une institution dédiée à la détection et à la prévention des contrefaçons.
+Ce projet, réalisé dans le cadre de ma formation OpenClassrooms Data Analyst, avait pour objectif de développer une solution capable d’identifier automatiquement les faux billets en euros à partir de leurs caractéristiques géométriques. En tant que consultant Data Analyst, j’ai eu l’opportunité de collaborer avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM), une institution dédiée à la détection et à la prévention des contrefaçons.
 
 ---
 
@@ -38,7 +38,7 @@ Ce projet m’a permis d’approfondir mes compétences en modélisation et en a
 
 # 💶 Automatic Detection of Counterfeit Banknotes for ONCFM
 
-This project, completed as part of my Data Analytics training, aimed to develop a solution capable of automatically identifying counterfeit euro banknotes based on their geometric characteristics. As a Data Analyst consultant, I had the opportunity to collaborate with the **National Organization for Counterfeit Money Prevention (ONCFM)**, an institution dedicated to detecting and preventing counterfeiting.
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to develop a solution capable of automatically identifying counterfeit euro banknotes based on their geometric characteristics. As a Data Analyst consultant, I had the opportunity to collaborate with the **National Organization for Counterfeit Money Prevention (ONCFM)**, an institution dedicated to detecting and preventing counterfeiting.
 
 ---
 
